@@ -1,0 +1,2 @@
+# Cloud-Computing-Solutions-at-scale
+This repo is for my assignment in the course Building Cloud Computing Solutions at scale offered by Duke University on @coursera
