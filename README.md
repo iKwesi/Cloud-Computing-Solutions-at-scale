@@ -1,5 +1,4 @@
 [![Python application test with Github Actions](https://github.com/iKwesi/Cloud-Computing-Solutions-at-scale/actions/workflows/main.yml/badge.svg)](https://github.com/iKwesi/Cloud-Computing-Solutions-at-scale/actions/workflows/main.yml)
-
 [![Azure Python application test with Github Actions](https://github.com/iKwesi/Cloud-Computing-Solutions-at-scale/actions/workflows/azure.yml/badge.svg)](https://github.com/iKwesi/Cloud-Computing-Solutions-at-scale/actions/workflows/azure.yml)
 
 # Cloud-Computing-Solutions-at-scale
